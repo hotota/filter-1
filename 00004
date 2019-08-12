@@ -2210,7 +2210,8 @@ s14b.91danji.com
 s14b.groundyun.cn
 s2.series60.kiev.ua
 s2lol.com
-s3-us-west-2.amazonaws.com
+! s3-us-west-2.amazonaws.com
+! Amazon Web Services
 s3.eu-central-1.amazonaws.com
 saberprotech.com
 sabupda.vizvaz.com
